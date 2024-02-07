@@ -4,31 +4,29 @@ publishDate: 2024-02-16 00:00:00
 img: /assets/stock-4.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  In 'Cipher,' a talented hacker named Alex joins the secretive organization Cipher to infiltrate NASA servers and uncover hidden cosmic truths, navigating a world of technology, conspiracy, and moral dilemmas.
+  In 'Cipher Nexus 50', you're introduced to a world where the future melds seamlessly with digital realms, safeguarding secrets behind impenetrable firewalls. As Alex, a proficient hacker, you embark on a perilous journey with the secretive organization Cipher. Your mission is to infiltrate NASA's servers, aiming to reveal concealed cosmic truths. This narrative not only challenges your hacking abilities but also plunges you into a complex web of technology, conspiracy, and ethical quandaries.
 tags:
   - Character Design
   - Background Art
   - Branding and Visual Identity
 ---
-Project Name: Cipher - A Digital Conspiracy Visual Novel
 
-Project Description:
-"Cipher" is an immersive visual novel that immerses you in the futuristic world of "Nexus 50," where technology reigns supreme, and secrets are hidden behind impenetrable digital firewalls. Players take on the role of Alex, a talented hacker recruited by the secretive organization "Cipher." Their mission: to infiltrate the highly secure servers of "Nexus 50," including those of NASA, and reveal cosmic discoveries hidden from the public. In a world of conspiracy, revelations, and moral dilemmas, every choice made by the player influences the course of the story.
+# Cipher - A Digital Conspiracy Visual Novel
 
-Project Achievement:
+## Project Description
 
-Scenario Design: The first step was creating a captivating storyline detailing the universe of "Nexus 50," characters, and interactive choices that shape the narrative.
+Welcome to the enthralling universe of Cipher Nexus 50. Here, the digital and the real intertwine, hiding secrets behind formidable defenses. Although you start as Alex, the game empowers you with the choice to redefine your identity, enhancing your immersion into its depths. Your alliance with Cipher, a group shrouded in mystery, sets you on a quest to expose buried truths, navigating through a maze of technological marvels, conspiracies, and moral dilemmas.
 
-Visual Design: We developed memorable characters, immersive backgrounds, and a unique visual identity for the game, ensuring the aesthetic matched the atmosphere of "Nexus 50."
+![Cipher Logo](/assets/logo.png "Cipher Logo")
 
-Art Integration: Visual art, including character images, backgrounds, and user interface elements, was carefully integrated to create an immersive visual experience.
 
-Ren'Py Programming: The game was realized using the Ren'Py engine, with Python programming to handle dialogues, player choices, and interactive features.
+Embark on a journey with 'Cipher Nexus 50', where your skills as a hacker are put to the ultimate test. Joining forces with the enigmatic Cipher, you, initially known as Alex, are thrust into a realm where the digital and physical worlds are entwined. Your goal is to hack into NASA's servers to uncover secrets veiled from the public eye. This game offers a unique blend of personalization, allowing you to tailor your experience by selecting your own name, and challenging you to confront the realities of technology, conspiracy, and the choices that define us.
+## Visuals and Characters
 
-Music and Sound Effects: We integrated an original soundtrack and sound effects to enhance the game's atmosphere and create an immersive audio experience.
 
-Testing and Debugging: Throughout development, testing was conducted to ensure game stability and address any issues.
+### Cipher Team at Work
+![Cipher Team](/assets/main_menu.png "Cipher Team at Work")
+The Cipher team, united in purpose, working together to navigate the digital frontier.
 
-Final Polish: The project's final stages involved fine-tuning details, optimizing performance, and adding special features.
+## Meet the Team Behind the Screens
 
-"Cipher" is the result of passionate teamwork, combining interactive storytelling, captivating visual art, and an immersive gaming experience within the futuristic world of "Nexus 50." We are proud to present this visual novel, offering players a unique and engaging adventure at the heart of an exciting digital conspiracy.
